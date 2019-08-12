@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRent", "MovieRent.csproj", "{944651E9-8573-4A7F-AC18-B8E5F7ECCC7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{735DE76A-137B-44C0-B6F9-D04759174152}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{7DF2DE17-271B-4F00-9E57-B1484B64C313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944651E9-8573-4A7F-AC18-B8E5F7ECCC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944651E9-8573-4A7F-AC18-B8E5F7ECCC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944651E9-8573-4A7F-AC18-B8E5F7ECCC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944651E9-8573-4A7F-AC18-B8E5F7ECCC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2ED5880-3C01-429D-A2FD-065FF44D95FF}
+	EndGlobalSection
+EndGlobal
